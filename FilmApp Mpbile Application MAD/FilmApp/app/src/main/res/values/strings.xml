@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FilmApp</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="add_fav">Favourite❤️</string>
+    <string name="deadpool_img">DeadPool Image</string>
+    <string name="deadpooltext">DeadPool</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="harryAdapted">Adapted from: Harry Potter and the Order of the Phoenix</string>
+    <string name="harryDistibuteded">Distributed by: Warner Bros., Warner Bros. Pictures, FilmFlex</string>
+    <string name="deadBased">Based on: Deadpool; by: Fabian Nicieza; Rob Liefeld</string>
+    <string name="deadDistributed">Distributed by: 20th Century Studios</string>
+    <string name="deadpool_description">Ajax, a twisted scientist, experiments on Wade Wilson, a mercenary, to cure him of cancer and give him healing powers. However, the experiment leaves Wade disfigured and he decides to exact revenge.</string>
+    <string name="harry_potter_description">Harry Potter and Dumbledore\'s warning about the return of Lord Voldemort is not heeded by the wizard authorities who, in turn, look to undermine Dumbledore\'s authority at Hogwarts and discredit Harry.</string>
+
+</resources>
