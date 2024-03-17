@@ -12,8 +12,6 @@ class DeadPoolActivity : AppCompatActivity() {
         val display = supportActionBar
         display?.title = "Back"
         display?.setDisplayHomeAsUpEnabled(true)
-
-
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
