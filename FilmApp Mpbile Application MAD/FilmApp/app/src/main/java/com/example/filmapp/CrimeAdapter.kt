@@ -23,7 +23,5 @@ class CrimeAdapter(private val crimeList: ArrayList<CrimeImage>) : RecyclerView.
     override fun onBindViewHolder(holder: CrimeviewHolder, position: Int) {
         val crime = crimeList[position]
         holder.imageView.setImageResource(crime.image)
-
-
     }
 }
