@@ -16,7 +16,6 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-
         usernameInput = findViewById(R.id.editTextText)
         passwordInput = findViewById(R.id.editTextPassword)
         loginBtn = findViewById(R.id.loginBtn)
