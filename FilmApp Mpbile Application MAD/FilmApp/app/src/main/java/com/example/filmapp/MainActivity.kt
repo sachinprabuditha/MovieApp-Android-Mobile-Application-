@@ -7,7 +7,6 @@ import android.widget.Button
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 
-
 class MainActivity : AppCompatActivity(){
 
 //private lateinit var binding : ActivityMainBinding
@@ -40,10 +39,6 @@ class MainActivity : AppCompatActivity(){
 
             true
         }*/
-
-
-
-
 
         val deadpool = findViewById<ImageView>(R.id.deadpool)
         deadpool.setOnClickListener {
@@ -80,10 +75,6 @@ class MainActivity : AppCompatActivity(){
             val Intent = Intent(this,FavoriteActivity::class.java)
             startActivity(Intent)
         }
-
-
-
-
 
     }
 
