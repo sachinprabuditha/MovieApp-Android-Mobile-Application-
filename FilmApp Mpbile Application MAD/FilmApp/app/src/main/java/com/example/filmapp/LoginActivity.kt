@@ -31,7 +31,6 @@ class LoginActivity : AppCompatActivity() {
                 } else {
                     Toast.makeText(this, "Login Failed!", Toast.LENGTH_SHORT).show()
                 }
-
         }
     }
 }
