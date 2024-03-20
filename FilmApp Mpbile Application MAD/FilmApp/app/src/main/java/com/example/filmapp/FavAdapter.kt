@@ -23,7 +23,6 @@ class FavAdapter(private val context: Activity, private val arrayList: ArrayList
         filmName.text = arrayList[position].name
 
 
-
         return view
     }
 }
