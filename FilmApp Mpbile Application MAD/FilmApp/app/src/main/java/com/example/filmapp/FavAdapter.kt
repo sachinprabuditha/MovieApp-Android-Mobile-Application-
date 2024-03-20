@@ -22,7 +22,6 @@ class FavAdapter(private val context: Activity, private val arrayList: ArrayList
         imageView.setImageResource(arrayList[position].imageId)
         filmName.text = arrayList[position].name
 
-
         return view
     }
 }
