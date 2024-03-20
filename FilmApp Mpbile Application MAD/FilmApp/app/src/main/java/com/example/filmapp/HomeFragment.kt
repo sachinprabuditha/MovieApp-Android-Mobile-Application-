@@ -31,5 +31,4 @@ class HomeFragment : Fragment() {
 
         return v
     }
-
 }
