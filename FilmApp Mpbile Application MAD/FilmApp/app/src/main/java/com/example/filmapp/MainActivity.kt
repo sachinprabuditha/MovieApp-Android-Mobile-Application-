@@ -84,5 +84,4 @@ class MainActivity : AppCompatActivity(){
         fragmentTransaction.replace(R.id.framelayout,fragment)
         fragmentTransaction.commit()
     }*/
-
 }
