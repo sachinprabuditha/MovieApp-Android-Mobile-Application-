@@ -21,7 +21,6 @@ class LoginActivity : AppCompatActivity() {
         loginBtn = findViewById(R.id.loginBtn)
 
         loginBtn.setOnClickListener {
-
                 if (usernameInput.text.toString() == "user" && passwordInput.text.toString() == "1234"){
                     Toast.makeText(this, "Login Successful!", Toast.LENGTH_SHORT).show()
                     val loginBtn = findViewById<Button>(R.id.loginBtn)
