@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity(){
         val fragmentManager: FragmentManager = supportFragmentManager
         fragmentManager.beginTransaction().add(R.id.mainLayout, homeFragment).commit()*/
 
-
         /*binding.bottomnav.setOnItemSelectedListener {
 
             when (it.itemId) {
