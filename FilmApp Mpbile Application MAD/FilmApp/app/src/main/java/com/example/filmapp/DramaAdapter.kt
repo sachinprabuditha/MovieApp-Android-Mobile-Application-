@@ -24,6 +24,5 @@ class DramaAdapter(private val dramaList: ArrayList<DramaImage>) : RecyclerView.
         val crime = dramaList[position]
         holder.dimageView.setImageResource(crime.dimage)
 
-
     }
 }
